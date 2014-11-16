@@ -1,0 +1,617 @@
+{
+  "ID-AC": {
+    "Nanggroe Aceh Darussalam": {
+      "TTN": "Kabupaten Aceh Selatan",
+      "KTN": "Kabupaten Aceh Tenggara",
+      "LGS": "Kabupaten Aceh Timur",
+      "TKN": "Kabupaten Aceh Tengah",
+      "MBO": "Kabupaten Aceh Barat",
+      "JTH": "Kabupaten Aceh Besar",
+      "SGI": "Kabupaten Pidie",
+      "LSK": "Kabupaten Aceh Utara",
+      "SNB": "Kabupaten Simeulue",
+      "SKL": "Kabupaten Aceh Singkil",
+      "BIR": "Kabupaten Bireuen",
+      "BPD": "Kabupaten Aceh Barat Daya",
+      "BKJ": "Kabupaten Gayo Lues",
+      "CAG": "Kabupaten Aceh Jaya",
+      "SKM": "Kabupaten Nagan Raya",
+      "KRB": "Kabupaten Aceh Tamiang",
+      "STR": "Kabupaten Bener Meriah",
+      "MRN": "Kabupaten Pidie Jaya",
+      "BNA": "Kota Banda Aceh",
+      "SAB": "Kota Sabang",
+      "LSM": "Kota Lhokseumawe",
+      "SUS": "Kota Subulussalam"
+    }
+  },
+  "ID-SU": {
+    "Sumatera Utara": {
+      "SBG": "Kabupaten Tapanuli Tengah",
+      "TRT": "Kabupaten Tapanuli Utara",
+      "PSP": "Kabupaten Tapanuli Selatan",
+      "GST": "Kabupaten Nias",
+      "STB": "Kabupaten Langkat",
+      "KBJ": "Kabupaten Karo",
+      "LBP": "Kabupaten Deli Serdang",
+      "PMS": "Kabupaten  Simalungun",
+      "KIS": "Kabupaten Asahan",
+      "RAP": "Kabupaten  Labuhanbatu",
+      "SDK": "Kabupaten Dairi",
+      "BLG": "Kabupaten Toba Samosir",
+      "PYB": "Kabupaten Mandailing Natal",
+      "TLD": "Kabupaten Nias Selatan",
+      "SAL": "Kabupaten Pakpak Bharat",
+      "DLS": "Kabupaten Humbang Hasundutan",
+      "PRR": "Kabupaten Samosir",
+      "SRH": "Kabupaten Serdang Bedagai",
+      "LMP": "Kabupaten Batu Bara",
+      "GNT": "Kabupaten Padang Lawas Utara",
+      "SBH": "Kabupaten Padang Lawas",
+      "KPI": "Kabupaten Labuhanbatu Selatan",
+      "AKK": "Kabupaten Labuhanbatu Utara",
+      "LTU": "Kabupaten Nias Utara",
+      "LHM": "Kabupaten Nias Barat",
+      "MDN": "Kota Medan",
+      "TJB": "Kota Tanjung Balai",
+      "BNJ": "Kota Binjai",
+      "TBT": "Kota Tebing Tinggi"
+    }
+  },
+  "ID-SB": {
+    "Sumatera Barat": {
+      "PNN": "Kabupaten Pesisir Selatan",
+      "ARS": "Kabupaten Solok",
+      "MRJ": "Kabupaten Sijunjung",
+      "BSK": "Kabupaten Tanah Datar",
+      "NPM": "Kabupaten Padang Pariaman",
+      "LBB": "Kabupaten Agam",
+      "SRK": "Kabupaten Lima Puluh Kota",
+      "LBS": "Kabupaten Pasaman",
+      "TPT": "Kabupaten Kepulauan Mentawai",
+      "PLJ": "Kabupaten  Dharmasraya",
+      "PDA": "Kabupaten Solok Selatan",
+      "SPE": "Kabupaten Pasaman Barat",
+      "PAD": "Kota Padang",
+      "SLK": "Kota Solok",
+      "SWL": "Kota Sawahlunto",
+      "PDP": "Kota Padang Panjang",
+      "BKT": "Kota Bukittinggi",
+      "PYH": "Kota Payakumbuh",
+      "PMN": "Kota Pariaman"
+    }
+  },
+  "ID-RI": {
+    "Riau": {
+      "BKN": "Kabupaten Kampar",
+      "RGT": "Kabupaten Indragiri Hulu",
+      "BLS": "Kabupaten Bengkalis",
+      "TBH": "Kabupaten Indragiri Hilir",
+      "PKK": "Kabupaten Pelalawan",
+      "PRP": "Kabupaten Rokan Hulu",
+      "UJT": "Kabupaten Rokan Hilir",
+      "SAK": "Kabupaten Siak",
+      "TLK": "Kabupaten Kuantan Singingi",
+      "TTG": "Kabupaten Kepulauan Meranti",
+      "PBR": "Kota Pekanbaru",
+      "DUM": "Kota Dumai"
+    }
+  },
+  "ID-JA": {
+    "Jambi": {
+      "SPN": "Kabupaten Kerinci",
+      "BKO": "Kabupaten Merangin",
+      "SRL": "Kabupaten  Sarolangun",
+      "MBN": "Kabupaten Batanghari",
+      "SNT": "Kabupaten Muaro Jambi",
+      "KLT": "Kabupaten Tanjung Jabung Barat",
+      "MSK": "Kabupaten Tanjung Jabung Timur",
+      "MRB": "Kabupaten Bungo",
+      "MRT": "Kabupaten Tebo",
+      "JMB": "Kota Jambi"
+    }
+  },
+  "ID-SS": {
+    "Sumatera Selatan": {
+      "BTA": "Kabupaten Ogan Komering Ulu",
+      "KAG": "Kabupaten Ogan Komering Ilir",
+      "MRE": "Kabupaten Muara Enim",
+      "LHT": "Kabupaten Lahat",
+      "MBL": "Kabupaten Musi Rawas",
+      "SKY": "Kabupaten Musi Banyuasin",
+      "PKB": "Kabupaten Banyuasin",
+      "MPR": "Kabupaten Oku Timur",
+      "MRD": "Kabupaten Oku Selatan",
+      "IDL": "Kabupaten Ogan Ilir",
+      "TBG": "Kabupaten Empat Lawang",
+      "PLG": "Kota Palembang",
+      "PGA": "Kota Pagar Alam",
+      "LLG": "Kota Lubuk Linggau",
+      "PBM": "Kota Prabumulih"
+    }
+  },
+  "ID-BE": {
+    "Bengkulu": {
+      "MNA": "Kabupaten Bengkulu Selatan",
+      "CRP": "Kabupaten Rejang Lebong",
+      "AGM": "Kabupaten Bengkulu Utara",
+      "BHN": "Kabupaten Kaur",
+      "TAS": "Kabupaten Seluma",
+      "MKM": "Kabupaten Muko Muko",
+      "TUB": "Kabupaten Lebong",
+      "KPH": "Kabupaten Kepahiang",
+      "KRT": "Kabupaten Bengkulu Tengah",
+      "BGL": "Kota Bengkulu"
+    }
+  },
+  "ID-LA": {
+    "Lampung": {
+      "KLA": "Kabupaten Lampung Selatan",
+      "GNS": "Kabupaten Lampung Tengah",
+      "KTB": "Kabupaten Lampung Utara",
+      "LIW": "Kabupaten Lampung Barat",
+      "MGL": "Kabupaten Tulang Bawang",
+      "KOT": "Kabupaten  Tanggamus",
+      "SDN": "Kabupaten Lampung Timur",
+      "BBU": "Kabupaten Way Kanan",
+      "GDT": "Kabupaten  Pesawaran",
+      "PRW": "Kabupaten Pringsewu",
+      "MSJ": "Kabupaten Mesuji",
+      "TWG": "Kabupaten Tulang Bawang Barat",
+      "BDL": "Kota Bandar Lampung",
+      "MET": "Kota Metro"
+    }
+  },
+  "ID-BB": {
+    "Kep Bangka Belitung": {
+      "SGL": "Kabupaten Bangka",
+      "TDN": "Kabupaten Belitung",
+      "TBL": "Kabupaten Bangka Selatan",
+      "KBA": "Kabupaten Bangka Tengah",
+      "MTK": "Kabupaten Bangka Barat",
+      "MGR": "Kabupaten Belitung Timur",
+      "PGP": "Kota Pangkal Pinang"
+    }
+  },
+  "ID-KR": {
+    "Kep Riau": {
+      "BSB": "Kabupaten Bintan",
+      "TBK": "Kabupaten Karimun",
+      "RAN": "Kabupaten Natuna",
+      "DKL": "Kabupaten Lingga",
+      "TRP": "Kabupaten Kepulauan Anambas",
+      "BTM": "Kota Batam",
+      "TPG": "Kota Tanjung Pinang"
+    }
+  },
+  "ID-JK": {
+    "DKI Jakarta": {
+      "KSU": "Kabupaten Adm. Kepulauan Seribu",
+      "TNA": "Kota Adm. Jakarta Pusat",
+      "TJP": "Kota Adm. Jakarta Utara",
+      "GGP": "Kota Adm. Jakarta Barat",
+      "KYB": "Kota Adm. Jakarta Selatan",
+      "CKG": "Kota Adm. Jakarta Timur"
+    }
+  },
+  "ID-JB": {
+    "Jawa Barat": {
+      "CBI": "Kabupaten Bogor",
+      "SBM": "Kabupaten Sukabumi",
+      "CJR": "Kabupaten Cianjur",
+      "SOR": "Kabupaten Bandung",
+      "GRT": "Kabupaten Garut",
+      "SPA": "Kabupaten  Tasikmalaya",
+      "CMS": "Kabupaten Ciamis",
+      "KNG": "Kabupaten Kuningan",
+      "SBR": "Kabupaten Cirebon",
+      "MJL": "Kabupaten  Majalengka",
+      "SMD": "Kabupaten Sumedang",
+      "IDM": "Kabupaten  Indramayu",
+      "SNG": "Kabupaten Subang",
+      "PWK": "Kabupaten  Purwakarta",
+      "KWG": "Kabupaten Karawang",
+      "CKR": "Kabupaten Bekasi",
+      "NPH": "Kabupaten Bandung Barat",
+      "BGR": "Kota Bogor",
+      "SKB": "Kota Sukabumi",
+      "BDG": "Kota Bandung",
+      "CBN": "Kota Cirebon",
+      "BKS": "Kota Bekasi",
+      "DPK": "Kota Depok",
+      "CMH": "Kota Cimahi",
+      "TSM": "Kota Tasikmalaya",
+      "BJR": "Kota Banjar"
+    }
+  },
+  "ID-JT": {
+    "Jawa Tengah": {
+      "CLP": "Kabupaten Cilacap",
+      "PWT": "Kabupaten Banyumas",
+      "PBG": "Kabupaten  Purbalingga",
+      "BNR": "Kabupaten  Banjarnegara",
+      "KBM": "Kabupaten Kebumen",
+      "PWR": "Kabupaten Purworejo",
+      "WSB": "Kabupaten  Wonosobo",
+      "MKD": "Kabupaten Magelang",
+      "BYL": "Kabupaten Boyolali",
+      "KLN": "Kabupaten Klaten",
+      "SKH": "Kabupaten Sukoharjo",
+      "WNG": "Kabupaten Wonogiri",
+      "KRG": "Kabupaten  Karanganyar",
+      "SGN": "Kabupaten Sragen",
+      "PWD": "Kabupaten Grobogan",
+      "BLA": "Kabupaten Blora",
+      "RBG": "Kabupaten Rembang",
+      "PTI": "Kabupaten Pati",
+      "KDS": "Kabupaten Kudus",
+      "JPA": "Kabupaten Jepara",
+      "DMK": "Kabupaten Demak",
+      "UNR": "Kabupaten Semarang",
+      "TMG": "Kabupaten  Temanggung",
+      "KDL": "Kabupaten Kendal",
+      "BTG": "Kabupaten Batang",
+      "KJN": "Kabupaten  Pekalongan",
+      "PML": "Kabupaten Pemalang",
+      "SLW": "Kabupaten Tegal",
+      "BBS": "Kabupaten Brebes",
+      "MGG": "Kota Magelang",
+      "SKT": "Kota Surakarta",
+      "SLT": "Kota Salatiga",
+      "SMG": "Kota Semarang",
+      "PKL": "Kota Pekalongan",
+      "TGL": "Kota Tegal"
+    }
+  },
+  "ID-YO": {
+    "DI Yogyakarta": {
+      "WAT": "Kabupaten Kulon Progo",
+      "BTL": "Kabupaten Bantul",
+      "WNO": "Kabupaten Gunung Kidul",
+      "SMN": "Kabupaten Sleman",
+      "YYK": "Kota Yogyakarta"
+    }
+  },
+  "ID-JI": {
+    "Jawa Timur": {
+      "PCT": "Kabupaten Pacitan",
+      "PNG": "Kabupaten Ponorogo",
+      "TRK": "Kabupaten  Trenggalek",
+      "TLG": "Kabupaten  Tulungagung",
+      "KNR": "Kabupaten Blitar",
+      "KDR": "Kabupaten Kediri",
+      "KPN": "Kabupaten Malang",
+      "LMJ": "Kabupaten Lumajang",
+      "JMR": "Kabupaten Jember",
+      "BYW": "Kabupaten  Banyuwangi",
+      "BDW": "Kabupaten  Bondowoso",
+      "SIT": "Kabupaten Situbondo",
+      "KRS": "Kabupaten  Probolinggo",
+      "PSR": "Kabupaten Pasuruan",
+      "SDA": "Kabupaten Sidoarjo",
+      "MJK": "Kabupaten Mojokerto",
+      "JBG": "Kabupaten Jombang",
+      "NJK": "Kabupaten Nganjuk",
+      "MJY": "Kabupaten Madiun",
+      "MGT": "Kabupaten Magetan",
+      "NGW": "Kabupaten Ngawi",
+      "BJN": "Kabupaten  Bojonegoro",
+      "TBN": "Kabupaten Tuban",
+      "LMG": "Kabupaten  Lamongan",
+      "GSK": "Kabupaten Gresik",
+      "BKL": "Kabupaten Bangkalan",
+      "SPG": "Kabupaten Sampang",
+      "PMK": "Kabupaten  Pamekasan",
+      "SMP": "Kabupaten Sumenep",
+      "BLT": "Kota Blitar",
+      "MLG": "Kota Malang",
+      "PBL": "Kota Probolinggo",
+      "PSN": "Kota Pasuruan",
+      "MAD": "Kota Madiun",
+      "SBY": "Kota Surabaya",
+      "BTU": "Kota Batu"
+    }
+  },
+  "ID-BT": {
+    "Banten": {
+      "PDG": "Kabupaten  Pandeglang",
+      "RKB": "Kabupaten Lebak",
+      "TGR": "Kabupaten Tangerang",
+      "SRG": "Kabupaten Serang",
+      "TNG": "Kota Tangerang",
+      "CLG": "Kota Cilegon",
+      "CPT": "Kota Tangerang Selatan"
+    }
+  },
+  "ID-BA": {
+    "Bali": {
+      "NGA": "Kabupaten Jembrana",
+      "TAB": "Kabupaten Tabanan",
+      "MGW": "Kabupaten Badung",
+      "GIN": "Kabupaten Gianyar",
+      "SRP": "Kabupaten Klungkung",
+      "BLI": "Kabupaten Bangli",
+      "KRA": "Kabupaten  Karangasem",
+      "SGR": "Kabupaten Buleleng",
+      "DPR": "Kota Denpasar"
+    }
+  },
+  "ID-NB": {
+    "Nusa Tenggara Barat": {
+      "GRG": "Kabupaten Lombok Barat",
+      "PYA": "Kabupaten Lombok Tengah",
+      "SEL": "Kabupaten Lombok Timur",
+      "SBW": "Kabupaten Sumbawa",
+      "DPU": "Kabupaten Dompu",
+      "WHO": "Kabupaten Bima",
+      "TLW": "Kabupaten Sumbawa Barat",
+      "TJN": "Kabupaten Lombok Utara",
+      "MTR": "Kota Mataram",
+      "BIM": "Kota Bima"
+    }
+  },
+  "ID-NT": {
+    "Nusa Tenggara Timur": {
+      "KPG": "Kabupaten Kupang",
+      "SOE": "Kabupaten Timor Tengah Selatan",
+      "KFM": "Kabupaten Timor Tengah Utara",
+      "ATB": "Kabupaten Belu",
+      "KLB": "Kabupaten Alor",
+      "LRT": "Kabupaten Flores Timur",
+      "MME": "Kabupaten Sikka",
+      "END": "Kabupaten Ende",
+      "BJW": "Kabupaten Ngada",
+      "RTG": "Kabupaten Manggarai",
+      "WGP": "Kabupaten Sumba Timur",
+      "WKB": "Kabupaten Sumba Barat",
+      "LWL": "Kabupaten Lembata",
+      "BAA": "Kabupaten Rote Ndao",
+      "LBJ": "Kabupaten Manggarai Barat",
+      "MBY": "Kabupaten Nagekeo",
+      "WBL": "Kabupaten Sumba Tengah",
+      "TAM": "Kabupaten Sumba Barat Daya",
+      "BRG": "Kabupaten Manggarai Timur",
+      "SBB": "Kabupaten Sabu Raijua"
+    }
+  },
+  "ID-KB": {
+    "Kalimantan Barat": {
+      "SBS": "Kabupaten Sambas",
+      "MPW": "Kabupaten Pontianak",
+      "SAG": "Kabupaten Sanggau",
+      "KTP": "Kabupaten Ketapang",
+      "STG": "Kabupaten Sintang",
+      "PTS": "Kabupaten Kapuas Hulu",
+      "BEK": "Kabupaten  Bengkayang",
+      "NBA": "Kabupaten Landak",
+      "SED": "Kabupaten Sekadau",
+      "NGP": "Kabupaten Melawi",
+      "SKD": "Kabupaten Kayong Utara",
+      "SRY": "Kabupaten Kubu Raya",
+      "PTK": "Kota Pontianak",
+      "SKW": "Kota Singkawang"
+    }
+  },
+  "ID-KT": {
+    "Kalimantan Tengah": {
+      "PBU": "Kabupaten Kotawaringin Barat",
+      "SPT": "Kabupaten Kotawaringin Timur",
+      "KLK": "Kabupaten Kapuas",
+      "BNT": "Kabupaten Barito Selatan",
+      "MTW": "Kabupaten Barito Utara",
+      "KSN": "Kabupaten Katingan",
+      "KLP": "Kabupaten Seruyan",
+      "SKR": "Kabupaten Sukamara",
+      "NGB": "Kabupaten  Lamandau",
+      "KKN": "Kabupaten Gunung Mas",
+      "PPS": "Kabupaten Pulang Pisau",
+      "PRC": "Kabupaten Murung Raya",
+      "TML": "Kabupaten Barito Timur",
+      "PLK": "Kota Palangkaraya"
+    }
+  },
+  "ID-KS": {
+    "Kalimanta Selatan": {
+      "PLI": "Kabupaten Tanah Laut",
+      "KBR": "Kabupaten Kotabaru",
+      "MTP": "Kabupaten Banjar",
+      "MRH": "Kabupaten Barito Kuala",
+      "RTA": "Kabupaten Tapin",
+      "KGN": "Kabupaten Hulu Sungai Selatan",
+      "BRB": "Kabupaten Hulu Sungai Tengah",
+      "AMT": "Kabupaten Hulu Sungai Utara",
+      "TJG": "Kabupaten Tabalong",
+      "BLN": "Kabupaten Tanah Bumbu",
+      "PRN": "Kabupaten Balangan",
+      "BJM": "Kota Banjarmasin",
+      "BJB": "Kota Banjarbaru"
+    }
+  },
+  "ID-KI": {
+    "Kalimantan Timur": {
+      "TGT": "Kabupaten Paser",
+      "TRG": "Kabupaten Kutai Kertanegara",
+      "TNR": "Kabupaten Berau",
+      "TJS": "Kabupaten Bulungan",
+      "NNK": "Kabupaten Nunukan",
+      "MLN": "Kabupaten Malinau",
+      "SDW": "Kabupaten Kutai Barat",
+      "SGT": "Kabupaten Kutai Timur",
+      "PNJ": "Kabupaten Penajam Paser Utara",
+      "TDP": "Kabupaten Tana Tidung",
+      "BPP": "Kota Balikpapan",
+      "SMR": "Kota Samarinda",
+      "TAR": "Kota Tarakan",
+      "BON": "Kota Bontang"
+    }
+  },
+  "ID-SA": {
+    "Sulawesi Utara": {
+      "LLK": "Kabupaten Bolaang Mongondow",
+      "TNN": "Kabupaten Minahasa",
+      "THN": "Kabupaten Kepulauan Sangihe",
+      "MGN": "Kabupaten Kepulauan Talaud",
+      "AMR": "Kabupaten Minahasa Selatan",
+      "ARM": "Kabupaten Minahasa Utara",
+      "RTN": "Kabupaten Minahasa Tenggara",
+      "BRK": "Kabupaten Bolaang Mongondow Utara",
+      "ODS": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+      "TTY": "Kabupaten Bolaang Mongondow Timur",
+      "BLU": "Kabupaten Bolaang Mongondow Selatan",
+      "MND": "Kota Manado",
+      "BIT": "Kota Bitung",
+      "TMH": "Kota Tomohon",
+      "KTG": "Kota Kotamobagu"
+    }
+  },
+  "ID-ST": {
+    "Sulawesi Tengah": {
+      "LWK": "Kabupaten Banggai",
+      "PSO": "Kabupaten Poso",
+      "DGL": "Kabupaten Donggala",
+      "TLI": "Kabupaten Toli Toli",
+      "BUL": "Kabupaten Buol",
+      "BGK": "Kabupaten Morowali",
+      "SKN": "Kabupaten Banggai Kepulauan",
+      "PRG": "Kabupaten Parigi Moutong",
+      "APN": "Kabupaten Tojo Una Una",
+      "SGB": "Kabupaten Sigi",
+      "PAL": "Kota Palu"
+    }
+  },
+  "ID-SN": {
+    "Sulawesi Selatan": {
+      "BEN": "Kabupaten Kepulauan Selayar",
+      "BLK": "Kabupaten  Bulukumba",
+      "BAN": "Kabupaten Bantaeng",
+      "JNP": "Kabupaten  Jeneponto",
+      "TKA": "Kabupaten Takalar",
+      "SGM": "Kabupaten Gowa",
+      "SNJ": "Kabupaten Sinjai",
+      "WTP": "Kabupaten Bone",
+      "MRS": "Kabupaten Maros",
+      "PKJ": "Kabupaten Pangkajene Kepulauan",
+      "BAR": "Kabupaten Barru",
+      "WNS": "Kabupaten Soppeng",
+      "SKG": "Kabupaten Wajo",
+      "SDR": "Kabupaten Sidenreng Rappang",
+      "PIN": "Kabupaten Pinrang",
+      "ENR": "Kabupaten Enrekang",
+      "PLP": "Kabupaten Luwu",
+      "MAK": "Kabupaten Tana Toraja",
+      "MSB": "Kabupaten Luwu Utara",
+      "MLL": "Kabupaten Luwu Timur",
+      "RTP": "Kabupaten Toraja Utara",
+      "MKS": "Kota Makassar",
+      "PRE": "Kota Pare Pare"
+    }
+  },
+  "ID-SG": {
+    "Sulawesi Tenggara": {
+      "KKA": "Kabupaten Kolaka",
+      "UNH": "Kabupaten Konawe",
+      "RAH": "Kabupaten Muna",
+      "PSW": "Kabupaten Buton",
+      "ADL": "Kabupaten Konawe Selatan",
+      "RMB": "Kabupaten Bombana",
+      "WGW": "Kabupaten Wakatobi",
+      "LSS": "Kabupaten Kolaka Utara",
+      "WGD": "Kabupaten Konawe Utara",
+      "BNG": "Kabupaten Buton Utara",
+      "KDI": "Kota Kendari",
+      "BAU": "Kota Bau Bau"
+    }
+  },
+  "ID-GO": {
+    "Gorontalo": {
+      "GTO": "Kabupaten Gorontalo",
+      "TMT": "Kabupaten Boalemo",
+      "SWW": "Kabupaten Bone Bolango",
+      "MAR": "Kabupaten Pahuwato",
+      "KWD": "Kabupaten Gorontalo Utara"
+    }
+  },
+  "ID-SR": {
+    "Sulawesi Barat": {
+      "PKY": "Kabupaten Mamuju Utara",
+      "MAM": "Kabupaten Mamuju",
+      "MMS": "Kabupaten Mamasa",
+      "PLW": "Kabupaten Polewali Mandar",
+      "MJN": "Kabupaten Majene"
+    }
+  },
+  "ID-MA": {
+    "Maluku": {
+      "MSH": "Kabupaten Maluku Tengah",
+      "TUL": "Kabupaten Maluku Tenggara",
+      "SML": "Kabupaten Maluku Tenggara Barat",
+      "NLA": "Kabupaten Buru",
+      "DTH": "Kabupaten Seram Bagian Timur",
+      "DRH": "Kabupaten Seram Bagian Barat",
+      "DOB": "Kabupaten Kepulauan Aru",
+      "TKR": "Kabupaten Maluku Barat Daya",
+      "NMR": "Kabupaten Buru Selatan",
+      "AMB": "Kota Ambon"
+    }
+  },
+  "ID-MU": {
+    "Maluku Utara": {
+      "JLL": "Kabupaten Halmahera Barat",
+      "WED": "Kabupaten Halmahera Tengah",
+      "TOB": "Kabupaten Halmahera Utara",
+      "LBA": "Kabupaten Halmahera Selatan",
+      "SNN": "Kabupaten Kepulauan Sula",
+      "MAB": "Kabupaten Halmahera Timur",
+      "MTS": "Kabupaten Pulau Morotai",
+      "TTE": "Kota Ternate",
+      "TDR": "Kota Tidore Kepulauan"
+    }
+  },
+  "ID-PA": {
+    "Papua": {
+      "MRK": "Kabupaten Merauke",
+      "WAM": "Kabupaten  Jayawijaya",
+      "JAP": "Kabupaten Jayapura",
+      "NAB": "Kabupaten Nabire",
+      "SRU": "Kabupaten Kepulauan Yapen",
+      "BIK": "Kabupaten Biak Numfor",
+      "MUL": "Kabupaten Puncak Jaya",
+      "ERT": "Kabupaten Paniai",
+      "TIM": "Kabupaten Mimika",
+      "SMI": "Kabupaten Sarmi",
+      "WRS": "Kabupaten Keerom",
+      "OSB": "Kabupaten Pegunungan Bintang",
+      "SMH": "Kabupaten Yahukimo",
+      "KBG": "Kabupaten Tolikara",
+      "BTW": "Kabupaten Waropen",
+      "TMR": "Kabupaten Boven Digoel",
+      "KEP": "Kabupaten Mappi",
+      "AGT": "Kabupaten Asmat",
+      "SRW": "Kabupaten Supiori",
+      "BRM": "Kabupaten Mamberamo Raya",
+      "KBK": "Kabupaten Mamberamo Tengah",
+      "ELL": "Kabupaten Yalimo",
+      "TOM": "Kabupaten Lanny Jaya",
+      "KYM": "Kabupaten Nduga",
+      "ILG": "Kabupaten Puncak",
+      "KGM": "Kabupaten Dogiyai",
+      "SGP": "Kabupaten Intan Jaya",
+      "TIG": "Kabupaten Deiyai"
+    }
+  },
+  "ID-PB": {
+    "Papua Barat": {
+      "AMS": "Kabupaten Sorong",
+      "MNK": "Kabupaten Manokwari",
+      "FFK": "Kabupaten Fak Fak",
+      "TMB": "Kabupaten Sorong Selatan",
+      "WAS": "Kabupaten Raja Ampat",
+      "BTI": "Kabupaten Teluk Bintuni",
+      "RAS": "Kabupaten Teluk Wondama",
+      "KMN": "Kabupaten Kaimana",
+      "FEF": "Kabupaten Tambrauw",
+      "AFT": "Kabupaten Maybrat",
+      "SON": "Kota Sorong"
+    }
+  }
+}
